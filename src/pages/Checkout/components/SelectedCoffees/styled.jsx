@@ -4,7 +4,8 @@ export const SelectedCoffeesContainer = styled.div`
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
-  width: 28rem;
+  max-width: 28rem;
+  width: 100%;
 
   > h3 {
     font-family: 'Baloo 2';

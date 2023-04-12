@@ -51,6 +51,10 @@ export const ButtonSubmit = styled.button`
   cursor: pointer;
   margin-top: 0.75rem;
 
+  @media (max-width: 576px) {
+    padding: 0.75rem;
+  }
+
   &:disabled {
     opacity: 0.7;
     cursor: not-allowed;

@@ -32,6 +32,10 @@ export const SuccessContainer = styled.section`
     justify-content: space-between;
     align-items: center;
 
+    img:last-child {
+      width: 100%;
+    }
+
     @media (max-width: 576px) {
       flex-direction: column;
       gap: 2rem;
