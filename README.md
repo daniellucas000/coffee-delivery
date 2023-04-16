@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  ![Screenshot_2](https://user-images.githubusercontent.com/89029213/232262152-d4d354d8-0884-4b15-b5e5-41fc30736c0e.png)
-  
+ ![Capa](https://user-images.githubusercontent.com/89029213/232318582-5269e2ad-d1e2-4493-8301-05e44c9a10a1.png)
+
 </div>
 
 <h3 align="center">
