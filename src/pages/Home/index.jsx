@@ -13,10 +13,8 @@ import box from '../../assets/box.svg';
 import timer from '../../assets/timer.svg';
 import coffee from '../../assets/coffee.svg';
 
-import { useCart } from '../../hooks/useCart';
 
 export function Home() {
-  const { cartItems } = useCart();
   return (
     <div>
       <Intro>
